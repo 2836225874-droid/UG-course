@@ -24,6 +24,25 @@ I remember how much time I spent figuring out where to start, which prerequisite
 
 I add materials by course so readers can find the relevant review guide, worked examples, or notes in one place. The availability table links directly to each resource as it is published.
 
+## Required physics coursework
+
+These are the required physics courses and laboratories I completed at Wuhan University.
+
+| Course | Chinese title |
+| --- | --- |
+| General Physics I | 普通物理一 |
+| General Physics II | 普通物理二 |
+| General Physics III | 普通物理三 |
+| General Physics IV | 普通物理四 |
+| General Physics Laboratory I | 普通物理实验一 |
+| General Physics Laboratory II | 普通物理实验二 |
+| General Physics Laboratory III | 普通物理实验三 |
+| Methods of Mathematical Physics | 数学物理方法 |
+| Classical Mechanics | 理论力学 |
+| Atomic Physics | 原子物理 |
+| Electrodynamics | 电动力学 |
+| Circuit Analysis | 电路分析 |
+
 ## UC Berkeley Summer Sessions
 
 I completed these mathematics courses at UC Berkeley in summer 2025. [Berkeley Mathematics summer 2025 course listings](https://math.berkeley.edu/courses/course-offerings/summer-2025)
