@@ -10,7 +10,7 @@ An undergraduate course archive from Wuhan University's School of Physics and Te
 
 ## About me
 
-I’m **Kang Chengkai (康城恺)**, and I go by **Kayel** on GitHub. I entered Wuhan University in 2024, started in the Physics Base Class, and joined the Yan Jici Physics Class in December 2025. I received a National Scholarship for Undergraduates. [About the Yan Jici Physics Class](https://iop.cas.cn/xwzx/snxw/202311/t20231123_6912635.html)
+I go by **Kayel** on GitHub. I entered Wuhan University in 2024, started in the Physics Base Class, and joined the Yan Jici Physics Class in December 2025. I received a National Scholarship for Undergraduates. [About the Yan Jici Physics Class](https://iop.cas.cn/xwzx/snxw/202311/t20231123_6912635.html)
 
 My first semester made me rethink how I studied. At UC Berkeley in summer 2025, working through discrete mathematics and abstract algebra with classmates showed me how much I could learn by comparing approaches to a problem. I took that habit into the China Undergraduate Physics Tournament. When we measured unexpected peaks in the sound spectrum of a vibrating ruler, my teammates and I used them to revise our model.
 
